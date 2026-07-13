@@ -9,14 +9,7 @@
         birds in this landmark comparative study. His analysis of
         the finches' structural features was the foundation for his
         theory on the origin and evolution of biological species [
-        1 ] . Today, 150 years later, our understanding of cells
-        from a molecular perspective, in parallel with the
-        technological advances in nucleic acid sequencing and
-        computer hardware and software, affords us the opportunity
-        to determine and study the sequences for many genes from a
-        comparative perspective, followed by the computational
-        analysis, cataloging, and presentation of the resulting
-        data on the World Wide Web.
+        1 ] .
         In the 1970's, Woese and Fox revisited Darwinian
         evolution from a molecular sequence and structure
         perspective. Their two primary objectives were to determine
